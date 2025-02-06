@@ -17,8 +17,8 @@ Note:
 
 # **Contribution**
 
- Sreejith S - sreejith20off@gmail.com
+ Saminathan M - 21ece27@act.edu.in
  
 **Team Members:**
-- Saminathan M - 21ece27@act.edu.in
+-  Sreejith S - sreejith20off@gmail.com
 - Ganesan S - prasanthganesan905@gmail.com
